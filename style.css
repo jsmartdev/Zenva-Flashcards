@@ -34,5 +34,5 @@ body {
 }
 
 .card-spanish {
-    opacity: 0%;
+    display: none;
 }
